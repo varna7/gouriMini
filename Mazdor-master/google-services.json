@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "330315729981",
+    "firebase_url": "https://mazdor-6a44f-default-rtdb.firebaseio.com",
+    "project_id": "mazdor-6a44f",
+    "storage_bucket": "mazdor-6a44f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:330315729981:android:e513d1c97fd11dcc0a6e54",
+        "android_client_info": {
+          "package_name": "com.example.maju.mazdor"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "330315729981-0gnd339ppcmlol55kkht6battmr8jqen.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBi9qQoank0I9Jdqld38Dju9aKnA8o5pUw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "330315729981-0gnd339ppcmlol55kkht6battmr8jqen.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
